@@ -1,1 +1,1 @@
-# NativeExecutable-C-C-JNI-Android-
+# NativeExecutable C/C++ JNI Android
