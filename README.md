@@ -1,7 +1,7 @@
-# ⚙️ NativeExecutable — C/C++ JNI (Android)
+# ⚙️ NativeExecutable C/C++ JNI (Android)
 
 โครงสร้างโปรเจกต์สำหรับการ **คอมไพล์โค้ด C/C++ ให้เป็น Native Executable บน Android**  
-โดยเชื่อมต่อผ่าน **JNI (Java Native Interface)** เพื่อให้สามารถเรียกใช้ฟังก์ชัน native ได้จาก Kotlin/Java
+โดยเชื่อมต่อผ่าน **JNI (Java Native Interface)**
 
 ---
 
